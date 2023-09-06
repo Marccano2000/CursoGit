@@ -1,0 +1,15 @@
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.csproj.AssemblyReference.cache
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.AssemblyInfoInputs.cache
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.AssemblyInfo.cs
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.csproj.CoreCompileInputs.cache
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\bin\Debug\net6.0\ProyectoIntroduccionGit.exe
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\bin\Debug\net6.0\ProyectoIntroduccionGit.deps.json
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\bin\Debug\net6.0\ProyectoIntroduccionGit.runtimeconfig.json
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\bin\Debug\net6.0\ProyectoIntroduccionGit.dll
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\bin\Debug\net6.0\ProyectoIntroduccionGit.pdb
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.dll
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\refint\ProyectoIntroduccionGit.dll
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.pdb
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ProyectoIntroduccionGit.genruntimeconfig.cache
+C:\Users\marcc\OneDrive\Escritorio\CURSO GIT\ProyectoWebEmpresaA\ProyectoIntroduccionGit\ProyectoIntroduccionGit\obj\Debug\net6.0\ref\ProyectoIntroduccionGit.dll
