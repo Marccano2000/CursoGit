@@ -6,15 +6,20 @@ namespace ProyectoIntroduccionGit
     {
         static void Main(string[] args)
         {
-            Coche coche1 = new Coche(2600.42, 1100.24); // Crear objeto de tipo coche i por otro lado dar un estado inicial al coche1
+            Coche coche1 = new Coche(2600.42, 1200.24); // Crear objeto de tipo coche i por otro lado dar un estado inicial al coche1
             Coche coche2 = new Coche();
 
-            Console.WriteLine(coche2.getInfoCoche());
 
+
+            Console.WriteLine(coche2.getInfoCoche());
             Console.WriteLine(coche1.getInfoCoche());
+
+
 
             coche1.setExtrasCoche(true, "Piel");
             coche2.setExtrasCoche(false, "Plastico");
+
+
 
             Console.WriteLine(coche1.getExtrasCoche());
             Console.WriteLine(coche2.getExtrasCoche());
